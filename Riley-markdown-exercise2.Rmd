@@ -1,0 +1,12 @@
+---
+title: "Riley-exercise2-practice"
+author: "Riley N Derby"
+date: "2024-01-29"
+output: html_document
+---
+wanted to practice running through exercise 2
+
+```{r}
+2+2
+```
+how do you get R markdown to open without all the preliminary information that i just delete at the beginning?>>
